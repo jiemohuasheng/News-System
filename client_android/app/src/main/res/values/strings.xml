@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CBCNewsFeeds</string>
+    <string name="server_name">137.207.82.51</string>
+    <string name="port_name">8665</string>
+    <string name="drawer_opened">Opened</string>
+    <string name="drawer_closed">Closed</string>
+    <string name="pref_host_label_alpha">Alpha</string>
+    <string name="pref_host_label_bravo">Bravo</string>
+    <string name="pref_host_label_charlie">Charlie</string>
+    <string name="pref_host_alpha_value">137.207.82.51</string>
+    <string name="pref_host_bravo_value">137.207.82.52</string>
+    <string name="pref_host_charlie_value">137.207.82.53</string>
+    <string name="pref_host_key_name">host</string>
+    <string name="pref_host_title">Server Name</string>
+    <string name="pref_port_no_default">8665</string>
+    <string name="pref_port_no_key_name">portno</string>
+    <string name="pref_portno_title">Port No</string>
+    <string name="settings_fragment_title">Settings</string>
+    <string name="connection_error_message">Wrong host/port.Please reconfigure</string>
+</resources>

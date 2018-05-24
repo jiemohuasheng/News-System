@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ListPreference
+        android:defaultValue="@string/pref_host_alpha_value"
+        android:entries="@array/pref_host_option_labels"
+        android:entryValues="@array/pref_host_option_values"
+        android:key="@string/pref_host_key_name"
+        android:title="@string/pref_host_title" />
+    <EditTextPreference
+        android:defaultValue="@string/pref_port_no_default"
+        android:key="@string/pref_port_no_key_name"
+        android:title="@string/pref_portno_title" />
+
+
+</PreferenceScreen>
+
+
+

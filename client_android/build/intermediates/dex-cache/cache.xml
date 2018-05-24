@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\AndroidSdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_21e09a3b9539d618a053f9dfec9f4168d56c5762.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_088d58d1df49baf24e8172c03449b64830084feb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_da00bf5b4e9fa7a1280595c8206c68a8fbaeec29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\libraryy\simple-xml-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="083623424bcfa03bd598e709765bad0816c2375d">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\simple-xml-2.7.1_93d087bcd6ca275d53f13761faa90ff612f827ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_39c12443b9753d118a46499c4d6dfbedf492bb5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_7a9c01a29470d9b038ef1b7ef5c3e75a7d316cec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_de363ea440d1939163ecef7baa34c0b7d6b10c0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_cd5984242bc23d56e67b37cd40634aed295d8c26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_0da75fb2f7556e222accfcb51bd76c56fe10e14f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ashok Sen Gurudayal\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-simplexml\2.0.0-beta2\42eabf026c01437a6c099fb129faf02218760a0d\converter-simplexml-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42eabf026c01437a6c099fb129faf02218760a0d">
+        <dex dex="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\converter-simplexml-2.0.0-beta2_df8beded35a8c1fbe2a46cdd4ae5cce22201aefa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\CBCNewsFeeds\libraryy\jsch-0.1.54.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d7d8aba0d11e8cd2f775f47cd3a6cfbf2837da4">
+        <dex dex="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\jsch-0.1.54_98d422ba161b8d222b1c819ee31aa0e99ca1fc8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_81ed0908cc687285bee8daf13cef5176a82b9f68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_61989aba6338a6ace4b2cfbdc1728f37ea141a64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_51b0c8aad270d4f579829ebe718f1092955a4fd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_3e18c838eac563df6717aecf5087050f05771b37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_f85cbf0c828cf7554150998f263ae72ff701c1af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_adfd2d6d198c5fb4b3c9b8972c3a1e0c9889e148.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\preference-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="378c0fefdd7adedd0ea74d7607b3d4a251b29d78">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-preference-v7-25.1.0_92b3705204a926a6dd69db80d79adf5406b9159c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\preference-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="378c0fefdd7adedd0ea74d7607b3d4a251b29d78">
+        <dex dex="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-preference-v7-25.1.0_c28845486ff2b1f4fd8fdb638350ea8ae16a0cc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_77e816667a6a34ca0d7dadd06f354d423163dd2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_36935b52cf5803169016ec81e95cb88ecb5441cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_5a37aef4b7858671672e8bb3c63c681448d7dd71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_e795b49a96593a186958e68255ab6ed6617f6a80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ashok Sen Gurudayal\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_9a83b65403e1461389490a8e9f860f071b19455f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_62856d2209844e2e59d53d73e0f6cd16a150beac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_ee17a42841b3c0cc309fb8552db6f85e2ceb2292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_093d58d8773b6d4593b8b977b8ca421cdc53c653.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_587fd4da313168e388abf48d5af1316c6d4d4a99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ashok Sen Gurudayal\.gradle\caches\modules-2\files-2.1\org.simpleframework\simple-xml\2.7.1\dd91fb744c2ff921407475cb29a1e3fee397d411\simple-xml-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\simple-xml-2.7.1_c59e5cd0866b0332057090db0819ed1a90835b05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ashok Sen Gurudayal\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\okio-1.6.0_53ee2e3497d84751d612e21d60f818432ec0207c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_7fd2576680fea84bcf55793730f4d7cd5321d951.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\preference-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="378c0fefdd7adedd0ea74d7607b3d4a251b29d78">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-preference-v7-25.1.0_039cc2dec5260a2c313aaf16d8c3a5bcb5e95726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_7e0df0f4a6b65968a24921c8365c894a388cfb2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\workingversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_4a2e676e57b8320a284f005cc53646f1d1e86035.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\AndroidProjects\NewsFeedsBackup\stableversion\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_0d31b423caad8aa51ee886a209061bfeb708d6b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\AndroidProjects\CBCNewsFeeds\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_c081f808e1d93aab82c4f7c752ac16af32110f66.jar" />
+    </item>
+
+</items>

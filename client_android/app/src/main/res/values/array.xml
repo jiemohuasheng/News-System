@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Label ordering must match values -->
+    <array name="pref_host_option_labels">
+        <item>@string/pref_host_label_alpha</item>
+        <item>@string/pref_host_label_bravo</item>
+        <item>@string/pref_host_label_charlie</item>
+    </array>
+
+    <array name="pref_host_option_values">
+        <item>@string/pref_host_alpha_value</item>
+        <item>@string/pref_host_bravo_value</item>
+        <item>@string/pref_host_charlie_value</item>
+    </array>
+</resources>

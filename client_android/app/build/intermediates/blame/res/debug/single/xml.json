@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\AndroidProjects\\NewsFeedsBackup\\workingversion\\CBCNewsFeeds\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_visualizer.xml",
+        "source": "C:\\AndroidProjects\\NewsFeedsBackup\\workingversion\\CBCNewsFeeds\\app\\src\\main\\res\\xml\\pref_visualizer.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\CBCNewsFeeds\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_visualizer.xml",
+        "source": "C:\\AndroidProjects\\CBCNewsFeeds\\app\\src\\main\\res\\xml\\pref_visualizer.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\NewsFeedsBackup\\stableversion\\CBCNewsFeeds\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_visualizer.xml",
+        "source": "C:\\AndroidProjects\\NewsFeedsBackup\\stableversion\\CBCNewsFeeds\\app\\src\\main\\res\\xml\\pref_visualizer.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\NewsFeedsBackup\\New folder (2)\\CBCNewsFeeds\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_visualizer.xml",
+        "source": "C:\\AndroidProjects\\NewsFeedsBackup\\New folder (2)\\CBCNewsFeeds\\app\\src\\main\\res\\xml\\pref_visualizer.xml"
+    }
+]
